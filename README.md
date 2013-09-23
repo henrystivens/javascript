@@ -1,40 +1,40 @@
-# Airbnb JavaScript Style Guide() {
+# Guía de estilo JavaScript Airbnb() {
 
-*A mostly reasonable approach to JavaScript*
+*Un enfoque razonable a JavaScript*
 
 
-## <a name='TOC'>Table of Contents</a>
+## <a name='TOC'>Tabla de contenido</a>
 
-  1. [Types](#types)
-  1. [Objects](#objects)
-  1. [Arrays](#arrays)
+  1. [Tipos](#types)
+  1. [Objetos](#objects)
+  1. [Arreglos](#arrays)
   1. [Strings](#strings)
-  1. [Functions](#functions)
-  1. [Properties](#properties)
+  1. [Funciones](#functions)
+  1. [Propiedades](#properties)
   1. [Variables](#variables)
   1. [Hoisting](#hoisting)
-  1. [Conditional Expressions & Equality](#conditionals)
-  1. [Blocks](#blocks)
-  1. [Comments](#comments)
-  1. [Whitespace](#whitespace)
-  1. [Commas](#commas)
-  1. [Semicolons](#semicolons)
-  1. [Type Casting & Coercion](#type-coercion)
-  1. [Naming Conventions](#naming-conventions)
-  1. [Accessors](#accessors)
-  1. [Constructors](#constructors)
-  1. [Events](#events)
-  1. [Modules](#modules)
+  1. [Expressiones Condicionales y de igualdad](#conditionals)
+  1. [Bloques](#blocks)
+  1. [Comentarios](#comments)
+  1. [Espacio en blanco](#whitespace)
+  1. [Comas](#commas)
+  1. [Punto y comas](#semicolons)
+  1. [Casting & Coerción](#type-coercion)
+  1. [Convenciones de nombrado](#naming-conventions)
+  1. [Acceso a atributos](#accessors)
+  1. [Constructores](#constructors)
+  1. [Eventos](#events)
+  1. [Modulos](#modules)
   1. [jQuery](#jquery)
-  1. [ES5 Compatibility](#es5)
-  1. [Testing](#testing)
-  1. [Performance](#performance)
-  1. [Resources](#resources)
+  1. [Compatibilidad ES5](#es5)
+  1. [Pruebas](#testing)
+  1. [Rendimiento](#performance)
+  1. [Recursos](#resources)
   1. [In the Wild](#in-the-wild)
-  1. [Translation](#translation)
-  1. [The JavaScript Style Guide Guide](#guide-guide)
-  1. [Contributors](#contributors)
-  1. [License](#license)
+  1. [Traducción](#translation)
+  1. [La guía de la guía de estilo de JavaScript](#guide-guide)
+  1. [Colaboradores](#contributors)
+  1. [Licencia](#license)
 
 ## <a name='types'>Types</a>
 
